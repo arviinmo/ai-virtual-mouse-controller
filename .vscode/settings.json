@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+      "./"
+    ],
+    "git.ignoreLimitWarning": true
+}
+
